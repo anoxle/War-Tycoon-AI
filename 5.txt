@@ -240,3 +240,460 @@ The USS Zumwalt is a monstrously large guided missile destroyer capable of mass 
 Rating: 9/10 This gamepass is very strong but the zumwalt is a relatively slow and huge target, though it does have a lot of HP to combat this. The Zumwalt is also fit for any kind of player may it be a casual player or one trying to take power over an entire server with their sheer might and firepower.
 
 Description: "Advanced Warship!"
+
+Badges:
+
+War Tycoon Badges
+War Tycoon has several badges for the community to earn. Can you collect them all?
+
+Badges:
+
+"Met The Owner"
+Met the Owner badge new
+- This badge can be earned by simply being in the same server as the game's owner, KizmoTek. This is a relatively hard badge to obtain, but not as rare as others.
+
+Rarity: 0.0% (Impossible)
+
+Won Ever: ~9,017
+
+Description: "You played a game with the Owner!"
+
+
+
+"First Rebirth"
+First Rebirth badge new
+- This badge can be earned by completing 1 Rebirth.
+
+Rarity: 5.1% (Extreme)
+
+Won Ever: ~8.7 million
+
+Description: "You completed a rebirth!"
+
+
+
+"Donation"
+Donation Badge new
+- This badge was given to those who donate to the game.
+
+Rarity: No longer obtainable
+
+Won Ever: 48,014
+
+Description: "You donated to help support the game! Thank you!!!"
+
+
+
+"69 Rebirths"
+69 Rebirths Badge new
+- This badge can be earned by, as the name suggests, completing 69 Rebirths.
+
+Rarity: 0.0% (Impossible)
+
+Won Ever: ~3,698
+
+Description: "Wow... You made it to 69 Rebirths!"
+
+
+
+"10 Rebirths"
+10 rebirths badge new
+- Again, as the name suggests, this badge can be earned by completing 10 Rebirths.
+
+Rarity: 0.3% (Impossible)
+
+Won Ever: ~445,500
+
+Description: "You made it to 10 rebirths!"
+
+
+
+"Missile Education"
+Missile Education Badge new
+- This badge is obtainable by clicking the button in the missile silo control room which is marked with a question mark (?) and listening to the entire audio that follows.
+
+Rarity: 0.1% (Impossible)
+
+Won Ever: ~360,000
+
+Description: "You know how the missile guidance system works!"
+
+
+
+"???"
+Mystery Badge
+- This badge can be obtained by finding a small cave. Located in a hill in front of Kilo and beyond the paved road.
+
+Rarity: 0.5% (Impossible)
+
+Won Ever: ~623,500
+
+Description: "A mystery lies within the cosmos..."
+
+
+
+"Sharpshooter"
+Sharpshooter Badge Finally correct?!
+- This badge can be obtained by killing another player from further than 1000 studs.
+
+Rarity: 0.7% (Impossible)
+
+Won Ever: ~ 1.02 million
+
+Description: "You got a kill from 1,000+ Studs!"
+
+
+
+"1st Kill"
+1st Kill Badge
+- This badge is obtained after getting your first kill ever! This is the most won badge in War Tycoon, causing it to be the most common.
+
+Rarity: 9.1% (Extreme)
+
+Won Ever: ~13.7 million
+
+Description: "Your 1st Kill in the game!"
+
+
+
+"25 Kills"
+25 Kills Badge
+- This badge is obtained after getting 25 kills in a single lobby
+
+Rarity: 1.0% (Insane)
+
+Won Ever: ~1.2 million
+
+Description: "Got 25 Kills within 1 session!"
+
+
+
+"Sun Cross"
+Sun Cross
+- This badge is obtained by finding a secret well, somewhere on the map
+
+Rarity: 0.9% (Impossible)
+
+Won Ever: ~383,000
+
+Description: "Հետևիր ութ ճանապարհներին՝ հավերժության հասնելու համար:"
+
+
+
+"American Hero"
+American Hero
+- This badge was obtainable during April 1st, 2022, as a part of the 2022 April Fools update. All you had to do to get this badge was join the game on that date.
+
+Rarity: No longer obtainable
+
+Won Ever: 171,240
+
+Description: "This is American soil now."
+
+
+
+"Gift Hunter"
+Gift
+- This badge was obtained by gathering 25 presents that were scattered around the map during Christmas of 2022. This badge was only available for about 20 days, yet players found it hard to find all 25, making it arguably the rarest badge in WT!
+
+Rarity: No longer obtainable
+
+Won Ever: 5,862
+
+Description: "Limited Time Christmas Badge. Find all 25 Hidden Gifts!"
+
+
+
+"Egg Hunt"
+Egg
+- This badge was obtained by gathering 25 eggs that were scattered around the map during Easter of 2023. This badge was only available during the Easter event of 2023! This event lasted for 1 week.
+
+Rarity: No longer obtainable
+
+Won Ever: 29,012
+
+Description: "Collect All 25 Hidden Eggs Around The Map!"
+
+"Ronin Scavenger Hunt"
+Ronin Scavenger Hunter Badge
+The Hunt
+- This badge was obtained by collecting 50 red crates during the Limited UGC Scavenger Hunt. This gave the Ballistic skin for guns and the Ronin Helmet. The event took play for around a day and a half, making it the shortest event that has happened.
+
+Rarity: No longer obtainable
+
+Won Ever: 21,484
+
+Description: "You Completed the Ronin UGC Scavenger Hunt!"
+
+"The Hunt"
+- This badge was obtained by collecting 10 blue crates during The Hunt Roblox event. This gave the user a coin in the "The Hunt Hub" which could be collected to get UGC items created by Roblox, War tycoon was apart of the 100+ games in The Hunt
+
+
+Rarity: 20.6% (Challenging)
+
+Won Ever: ~ 600,000
+
+Description: "Complete the Scavenger Hunt in War Tycoon to earn this badge!"
+
+Trade Master Badge
+"Trade Master"
+- This badge is obtainable via trading with players 5 different times.
+
+
+
+Rarity: 0.1% (Impossible)
+
+Won Ever: ~6,000
+
+Description: "Complete 5 different trades in the trading hub!"
+
+War Operations:
+
+Overview
+War Operations are missions that the player can do to unlock new equipment such as guns, vehicles, armor, etc. Currently there are eight mission types: Soldier, Vehicles, Drones, Pilots, Boats, Vietnam, Tanks, and Planes Operations, with more likely to come in future updates. This page contains all War Operations, how to do them, the reward, and even estimated times to complete them.
+
+Side note: War Operations automatically save and DO NOT reset after rebirthing
+
+Soldier Operations
+Soldier Operation
+Soldier Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+Javelin
+Javelin
+Operation Rocketeer	Knock Over 25 Trees, Cactuses, or Signs With Any Vehicle	30 - 45 Minutes
+Gas Grenade
+Gas Grenade	Operation Toxic Hunt	Collect 5 Airdrops From The Map	30 - 45 Minutes
+
+
+
+
+
+
+
+
+
+
+Vehicles Operations
+Vehicle Operations New
+Vehicles Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+AC-130 Gunship
+AC-130 Gunship	Operation Firepower	Get 50 kills with any Vehicle Turret	2 - 3 Hours
+Airstrike a10
+Airstrike Radio	Operation Blow Up	Destroy 50 Enemy Ground Vehicles	4 - 5 Hours
+Lazer 3 APC
+Lazar 3 APC	Operation Takedown	Get 40 kills with any Vehicle Turret	2 - 3 Hours
+M1117 Guardian
+M1117 Guardian	Operation Scavenge	Find 4 Vehicle Parts Hidden Around The Map	10 - 15 Minutes
+M142 Himars New
+M142 HIMARS	Operation Boom	Get 30 kills with Grenades	1 - 2 Hours
+Pantsir S1 New
+Pantsir S1	Operation Air Defense	Find 5 Vehicle Parts Hidden Around The Map	10 - 15 Minutes
+Patriot AA
+Patriot AA	Operation Sky Sentinel	Destroy 45 Enemy Helicopters or Planes	30 - 1 Hour 30 Minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Drone Operations
+Drone Operations
+Drones Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+Suitcase Drone
+Suitcase Drone	Operation Silent Strike	Get 45 Kills with any drone	30 - 45 Minutes
+RC Car 205541403
+RC Car	Operation Remote Destruction	Destroy 30 drones	1 - 2 Hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pilots Operations
+Helicopter Operations new
+Pilots Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+AH 1Z Viper
+AH-1Z Viper	Operation Ground Breaker	Destroy 50 Enemy Ground Vehicles With A Helicopter	20 - 30 Minutes
+AH-64 Apache
+AH-64 Apache	Operation Chopper	Get 25 Kills with any Helicopter	10 - 15 Minutes
+Eurocopter Tiger Image
+Eurocopter Tiger	Operation Ground Strike	Destroy 40 Enemy Ground Vehicles	20 - 30 Minutes
+Invictus
+Invictus	Operation Rotor Fury	Destroy 45 Enemy Helicopter With A Helicopter	30 - 45 Minutes
+Ka-52 Alligator
+KA-52 Alligator	Operation Havoc	Destroy 30 Enemy Helicopters	20 - 30 Minutes
+RaiderX
+Raider X	Operation Talon Strike	Destroy 30 Planes With A Helicopter	30 - 45 Minutes
+Super Stallion
+Super Stallion	Operation Sea Fury	Destroy 35 Enemy Boats with any Helicopter	1 - 1 Hour 30 Minutes
+Black Hawk
+UH-60 Black Hawk	Operation Recover	Revive 10 Players	15 - 20 Minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boats Operations
+Boat Operations
+Boats Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+KSG 12 New
+KSG-12	Operation Blast	Get 30 Kills with any Shotguns	15 - 20 Minutes
+PP-19 Bizon
+PP-19 Bizon	Operation Spray Time	Get 40 Kills with any Automatic Gun	15 - 20 Minutes
+Fairmile
+Fairmile	Operation Barrel Bounty	Collect 10 Oil barrels from the Oil Rigs or Warehouses	1 - 2 Hours
+PG-02
+PG-02	Operation Naval Barrage	Get 25 Kills with any Boat	20 - 30 Minutes
+USS Douglas
+USS Douglas	Operation Sea Crusher	Destroy 40 Enemy Boat	1 - 2 Hours
+Pr
+Pr. 206	Operation Sea Hunter	Destroy 50 Boats With Any Boat	2 - 3 Hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vietnam Operations
+Vietnam Operations New
+Vietnam Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+Vietnam armour image
+Vietnam Armor	Operation Homecoming	Revive 15 Players	20 - 30 Minutes
+New M1918 BAR
+M1918 BAR	Operation Rolling Thunder	Get 20 Kills with Grenades	30 - 50 Minutes
+New M14
+M14	Operation Cedar Falls	Get 25 Kills Past 100 Studs with Guns	45 Minutes - 1 Hour
+New M1903 Springfield
+M1903 Springfield	Operation Long Reach	Get 20 Kills Past 650 Studs with Guns	15 - 25 Minutes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanks Operations
+Tank Operations New
+Vehicles Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+T-72
+T-72	Operation Armored Assault	Get 40 Kills with any Tank	30 Minutes - 1 Hour
+Leopard 2A7
+Leopard 2A7	Operation Ironclad	Destroy 50 Enemy Tank	2 - 4 Hours
+M1 Abrams
+M1 Abrams	Operation Desert Storm	Steal 40 Vehicle Crates From Enemies	2 - 6 Hours
+MAUS Tank
+MAUS	Operation Assemble	Find 4 Tank Parts Hidden Around The Map	30 Minutes - 1 Hour
+ADATS
+ADATS	Operation Sky Shield	Destroy 60 Enemy Helicopters or Planes	2 - 5 Hours
+M3 Bradley
+M3 Bradley	Operation Heavy Metal	Destroy 35 Tanks With a Javelin or RPG	2 - 4 Hours
+T-90
+T-90	Operation Tank Slayer	Destroy 45 Enemy Tanks With A Tank	2 - 3 Hours
+T-14 Armata Ingame
+T-14 Armata	Operation Oil Extraction	Collect 12 Oil Barrels from the Oil Rigs or Warehouses	2 - 3 Hours
+PL-01 Render
+PL-01	Operation Ground Dominance	Destroy 50 Ground Vehicles With A Tank	1 - 2 Hours
+LOSAT2
+LOSAT	Operation Stronghold	Keep The Capture Point For 3000 Seconds.	50 Minutes
+KF51 Panther
+KF-51 Panther	Operation Predator	Spend 200 Parts On Spawning Tanks	3 Hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Planes Operations
+Plane Operations
+Planes Operations 
+Image	Name	Operation Name	Operation Requirements	Estimated Completion Time
+A-10 Warthog
+A-10 Warthog	Operation Air Support	Destroy 50 Enemy Ground Vehicles With Planes	1 - 2 Hours
+B29 Bomber
+B-29 Superfortress	Operation Air Dominance	Keep The Capture Point For 1800 Seconds	30 Minutes
+Eurofighter Typhoon
+Eurofighter Typhoon	Operation Typhoon Fury	Destroy 60 Enemy Helicopters	30 Minutes - 1 Hour
+F-4 Phantom
+F-4 Phantom	Operation Air Superiority	Destroy 60 Enemy Planes With A Planes	1 - 2 Hours
+F14
+F-14 Tomcat	Operation Sky Guardian	Destroy 60 Enemy Planes	1 - 2 Hours
+F16 Falcon High Quality
+F-16 Falcon	Operation Sky Hunter	Destroy 45 Enemy Helicopters With A Plane	1 - 2 Hours
+F-117 Nighthawk
+F-117 Nighthawk	Operation Silent Vengeance	Kill 50 Players with Plane Bombs	1 - 2 Hours
+F-18 Hornet
+F-18 Hornet	Operation Naval Strike	Destroy 40 Enemy Boats With Any Plane	1 - 2 Hours
+F-22 Raptor
+F-22 Raptor	Operation Sky Circuit	Collect 800 Points By Flying Through Rings In A Plane	1 - 2 Hours
+JAS-39 Gripen
+JAS 39 Gripen	Operation Valkyrie	Destroy Any 65 Enemy Vehicles In A Plane	30 Minutes - 1 Hour
+Stuka New
+JU 87 Stuka	Operation Tank Buster	Destroy 25 Tanks With Any Plane	1 - 2 Hours
+Mig29
+MiG-29	Operation Aerial Ace	Get 45 Kills With Any Plane	30 Minutes - 1 Hour
+SU-57 Render
+Su-57 Felon	Operation Siberian Storm	Spend 200 Parts On Spawning Planes	2 - 3 Hours
+
+< END >
